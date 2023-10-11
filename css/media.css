@@ -1,0 +1,12 @@
+@media screen and (max-width:992){ 
+    .nav__bnt{
+      display: none;
+    }
+    
+  }
+  @media screen and (max-width:576){ 
+    .nav__bnt{
+      display: none;
+    }
+    
+  }
